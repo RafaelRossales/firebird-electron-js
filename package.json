@@ -1,0 +1,21 @@
+{
+  "name": "firebird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "jquery": "^3.6.0",
+    "node-firebird": "^1.0.0"
+  },
+  "devDependencies": {
+    "electron": "^19.0.4"
+  }
+}
